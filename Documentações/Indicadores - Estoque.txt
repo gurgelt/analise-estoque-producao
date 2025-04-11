@@ -1,0 +1,21 @@
+produção de portas:
+
+- Meia cana Galvanizada Fechada
+- Meia cana Galvanizada Perfurada
+- Super cana Galvanizada Fechada
+- Guia Lateral 50mm (Bobina de 1,20x128mm)
+- Guia Lateral 70mm (Bobina de 1,20x165mm)
+- Guia Lateral 100mm (Bobina de 1,20x225mm)
+- Soleira 50x35 (Bobina de 0,8x238mm)
+- Tubo de Eixo Octagonal
+
+Mercadoria Recebida (MR) - 31/03 - 2000KG (exemplo) (pI)
+			   04/04 -  300KG (pF)
+			   total_mr = pI - pF = 2000 - 300 = 1700kg
+
+Mercadoria produzida - 150m2
+Total real gasto = ?
+
+SUCATA (15 EM 15 DIAS)
+
+			    
