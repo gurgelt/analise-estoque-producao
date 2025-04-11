@@ -1,7 +1,7 @@
 
 # 📊 Análise de Produção e Estoque – Atron
 
-Este repositório contém uma análise detalhada dos dados de produção e estoque da empresa fictícia **Atron**, utilizando o Power BI como ferramenta principal para visualização e interpretação dos dados. O objetivo é fornecer insights que auxiliem na otimização dos processos produtivos e na gestão eficiente do estoque.
+Este repositório contém uma análise detalhada dos dados de produção e estoque da empresa **Atron**, utilizando o Power BI como ferramenta principal para visualização e interpretação dos dados. O objetivo é fornecer insights que auxiliem na otimização dos processos produtivos e na gestão eficiente do estoque.
 
 ---
 
